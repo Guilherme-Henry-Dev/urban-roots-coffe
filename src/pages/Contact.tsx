@@ -65,7 +65,7 @@ export default function Contact() {
 
           <div className="rounded-xl overflow-hidden shadow-md">
             <iframe
-              title="Mapa Urban Roots Café"
+              title="Mapa Urban Roots Coffe"
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.1856484254387!2d-46.65657188502092!3d-23.56139908468167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c9c7a06313%3A0xf7e3b3a7b469e89e!2sAv.%20Paulista%2C%201000!5e0!3m2!1spt-BR!2sbr!4v1680720000000!5m2!1spt-BR!2sbr"
               width="100%"
               height="200"
