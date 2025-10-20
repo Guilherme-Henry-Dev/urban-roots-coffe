@@ -62,7 +62,7 @@ export default function Contact() {
             <p>📱 @urbanrootscafe</p>
           </div>
 
-          {/* Mapa ilustrativo */}
+
           <div className="rounded-xl overflow-hidden shadow-md">
             <iframe
               title="Mapa Urban Roots Café"

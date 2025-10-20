@@ -5,10 +5,10 @@ export default function About() {
   return (
     <Section
       title="Sobre a Urban Roots Coffe"
-      className="bg-[#f5f3ef] min-h-[83vh] py-12 rounded-2xl shadow-sm "
+      className="bg-[#f5f3ef] min-h-[82vh] py-10 rounded-2xl shadow-sm "
     >
-      <div className="grid md:grid-cols-2 gap-12 items-center mt-50">
-        {/* Texto */}
+      <div className="grid md:grid-cols-2 gap-12 items-center">
+
         <div className="space-y-6">
           <p className="text-lg leading-relaxed text-[#2f4538]/90">
             A Urban Roots Café nasceu com o propósito de unir sabor, sustentabilidade e
