@@ -9,9 +9,9 @@ export default function Header() {
     <header className="bg-[#2f4538] text-white shadow-md">
       <div className="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
         <Link to="/" className="flex items-center gap-2">
-          <img src={logo} alt="Urban Roots Logo" className="w-10 h-10" />
+          <img src={logo} alt="Urban Roots Logo" className="w-20 h-20" />
           <span className="font-semibold text-xl tracking-wide">
-            Urban Roots Café
+            Urban Roots Coffe
           </span>
         </Link>
 
