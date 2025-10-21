@@ -11,7 +11,7 @@ export default function About() {
 
         <div className="space-y-6">
           <p className="text-lg leading-relaxed text-[#2f4538]/90">
-            A Urban Roots Café nasceu com o propósito de unir sabor, sustentabilidade e
+            A Urban Roots Coffe nasceu com o propósito de unir sabor, sustentabilidade e
             comunidade. Nosso espaço é pensado para quem valoriza o equilíbrio entre
             o trabalho e os momentos de pausa, em um ambiente que conecta natureza e
             cidade.
