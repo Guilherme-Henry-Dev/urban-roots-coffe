@@ -142,4 +142,4 @@ Designer Gráfico • Social Media • Front-End Developer
 ## 🪴 Licença
 
 Este projeto é de uso **educacional e demonstrativo**, criado com fins de portfólio.  
-Todos os direitos reservados à marca fictícia **Urban Roots Café**.
+Todos os direitos reservados à marca fictícia **Urban Roots Coffe**.
